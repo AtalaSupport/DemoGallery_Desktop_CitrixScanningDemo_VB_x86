@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CitrixScanning", "CitrixScanning/CitrixScanning.vbproj", "{09AD40E3-93B8-4FB2-8126-C97A92F98F3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09CD8357-9D95-4390-8B5F-423A0DEC49B8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AD40E3-93B8-4FB2-8126-C97A92F98F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AD40E3-93B8-4FB2-8126-C97A92F98F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AD40E3-93B8-4FB2-8126-C97A92F98F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AD40E3-93B8-4FB2-8126-C97A92F98F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BCD8A6-8498-4F29-A3E9-C78D6EB42AAA}
+	EndGlobalSection
+EndGlobal
