@@ -2,7 +2,10 @@
 
 ## Description
 This sample application shows the needed code for CreateDeviceSession needed 
-for Citrix and RemoteDesktop scanning
+for Citrix and RemoteDesktop scanning.
+
+This is the VB.NET version. We also have a [C# version](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86) available.  
+
 
 ## See Also
 [HOWTO: Scan through Citrix or RDP (Terminal Server)](https://www.atalasoft.com/kb2/KB/50227/HOWTO-Scan-through-Citrix-or-RDP-Terminal-Server)
